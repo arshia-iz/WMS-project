@@ -1,3 +1,2 @@
-apple,10,1
-potato,10,1
-tomato,10,1
+apple,10,10
+bnana,10,19
